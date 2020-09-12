@@ -1,0 +1,12 @@
+flask
+flask_restful
+flask_session
+flask_cors
+requests
+opencv-python
+opencv-contrib-python
+numpy
+azure-storage-blob
+msrest
+azure-cognitiveservices-vision-computervision
+azure-cognitiveservices-vision-face

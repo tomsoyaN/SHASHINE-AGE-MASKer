@@ -1,0 +1,12 @@
+#app{
+  width: 100%;
+}
+.lists{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.list{
+  width: 33%;
+  height: 3rem;
+}
